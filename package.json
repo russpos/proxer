@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "name": "proxer",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/russjp1985/proxer.git"
+  },
+  "engines": {
+    "node": "~0.6.3"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
